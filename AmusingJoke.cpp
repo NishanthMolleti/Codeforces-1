@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+	//add comments ;)
 	string g,h,m;
 	cin>>g>>h>>m;
 	string a=g+h;
